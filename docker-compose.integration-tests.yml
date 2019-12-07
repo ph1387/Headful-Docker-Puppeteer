@@ -1,0 +1,9 @@
+version: '3'
+services:
+  tests:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - "./integration-tests:/integration-tests"
+      - "./screenshots:/screenshots"
