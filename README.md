@@ -41,4 +41,4 @@ The screensize can be changed as well. When doing so remember to also edit the "
 - [Mocha](https://mochajs.org/)
 
 ## License
-MIT [license](https://github.com/p1387h/Headful-Docker-Puppeteer/blob/master/LICENSE.txt)
+MIT [license](https://github.com/ph1387/Headful-Docker-Puppeteer/blob/master/LICENSE.txt)
